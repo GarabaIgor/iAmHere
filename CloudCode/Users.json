@@ -1,0 +1,26 @@
+{ "results": [
+	{
+        "Status": 1,
+        "UserName": "iphone",
+        "createdAt": "2014-07-13T15:09:21.052Z",
+        "objectId": "ibvymmF0yJ",
+        "udid": "udid1",
+        "updatedAt": "2014-07-13T15:09:28.738Z"
+    },
+	{
+        "Status": 0,
+        "UserName": "iPhone3",
+        "createdAt": "2014-07-13T15:09:23.625Z",
+        "objectId": "ewUkfWf88f",
+        "udid": "udid3",
+        "updatedAt": "2014-07-13T15:10:10.935Z"
+    },
+	{
+        "Status": 1,
+        "UserName": "iPhone2",
+        "createdAt": "2014-07-13T15:09:24.117Z",
+        "objectId": "BQOigmSex2",
+        "udid": "udid2",
+        "updatedAt": "2014-07-13T15:10:07.227Z"
+    }
+] }
